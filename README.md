@@ -45,3 +45,5 @@ Rebasing refers to the moving or combining a sequence of commits. The git rebase
 
 15. touch:
 The touch command is used to create new,empty files.
+
+Link for demonstration video: https://youtu.be/EJ4W5rgkHvY
